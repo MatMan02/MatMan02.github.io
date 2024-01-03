@@ -24,12 +24,12 @@ en: &DEFAULT_EN
       - title: "Perché?"
         desc: "Perché mi manchi un po'"
         icon: fas fa-solid fa-frog #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Quando?"
+        desc: "Quando vuoi, in questi giorni (ma non tra troppo tempo)"
+        icon: fas fa-solid fa-clock
+      - title: "Dove?"
+        desc: "Al baretto a prendere una cioccolata calda o il latte, oppure alla bolla a fare una passeggiata, ma forse fa freddino ora, meglio il baretto al caldo"
+        icon: fas fa-solid fa-map
 
   portfolio:
     title: "Portfolio"

@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Benvenuta su questo sito speciale!
     text: Ti andrebbe di vederci?
     button: Dimmi di più
-    buttonlink: "#services"
+    buttonlink: "#informazioni"
 
   services:
     title: "Informazioni"
